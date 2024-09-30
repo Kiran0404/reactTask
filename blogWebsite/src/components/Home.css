@@ -1,0 +1,42 @@
+
+.container {
+    position: relative;
+    height: 100vh;
+    background-image: url('https://i.gifer.com/embedded/download/V7r.gif');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .homeContent {
+    z-index: 1;
+  }
+  
+   h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+   p {
+    font-size: 30px;
+    margin-bottom: 50px;
+  }
+  
+    .homeButton {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #FABC3F;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .homeButton:hover {
+    box-shadow: 0 0 3px 3px rgb(230, 230, 230);
+  }
+  

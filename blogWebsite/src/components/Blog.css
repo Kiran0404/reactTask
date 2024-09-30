@@ -1,0 +1,14 @@
+.blogss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.about{
+    background-color: blanchedalmond;
+    font-size: 50px;
+    color: #FABC3F;
+    margin-left: 10px;
+    text-align: center;
+  }

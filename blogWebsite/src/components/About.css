@@ -1,0 +1,46 @@
+.about{
+  background-color: blanchedalmond;
+  font-size: 50px;
+  color: #FABC3F;
+  margin-left: 10px;
+}
+
+.aboutUs{
+  text-align: center;
+}
+.aboutImg{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+
+.main-about{
+  display: flex;
+}
+
+.about-content{
+  margin-left: 50px;
+}
+.para{
+  font-size: 20px;
+  margin-right: 10px;
+}
+.points{
+  display: flex;
+  margin: 30px;
+}
+
+.point2{
+  margin-left: 20px;
+}
+
+.abt{
+  font-size: 20px;
+    padding: 10px 15px;
+    background-color: #FABC3F;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 40px;
+     
+}
